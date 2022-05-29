@@ -21,4 +21,6 @@ Para ejecutarlo, se debe descargar NodeJS en su versión 14 o superior: https://
 
 4. Ir a http://localhost:3000/.
 
-La página de diagnóstico se puede consultar en el siguiente recurso: http://enfermedadesdermatologicas.azurewebsites.net/ 📱
+La página de diagnóstico se puede consultar en el siguiente recurso: 📱
+- http://enfermedadesdermatologicas.azurewebsites.net/
+- https://diagnostico-dermatologicas.herokuapp.com/
